@@ -1,6 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
-public class WilliamsJ_P3 {
+public class WilliamsJ_P1 {
    public static void main(String[] args) {
       // The code for the word of the day is already in place.
       final String WORD = getWordOfTheDay();
