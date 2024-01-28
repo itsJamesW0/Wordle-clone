@@ -9,7 +9,6 @@ public class WilliamsJ_P3 {
       char feedback = '-';
       
       
-      System.out.println(WORD);
       for(int i = 0; i < 6; i++) {
          System.out.println("Enter a five letter word");
          guess = keyboard.nextLine();
